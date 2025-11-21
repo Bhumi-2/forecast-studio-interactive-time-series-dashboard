@@ -79,8 +79,7 @@ date,value
 ## License Notice
 
 The UI template (Material Dashboard React) is MIT licensed.  
-✔ You may keep and push `LICENSE.md` exactly as provided.  
-✔ Fully allowed for personal, academic, and commercial usage.
+Fully allowed for personal, academic, and commercial usage.
 
 ---
 
@@ -88,4 +87,4 @@ The UI template (Material Dashboard React) is MIT licensed.
 
 - UI: Material Dashboard React (Creative Tim)  
 - Models: Python statsmodels  
-- Dashboard built by: *Your Name*  
+- Dashboard built by: Bhumika Khatwani
